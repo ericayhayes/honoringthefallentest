@@ -8,7 +8,7 @@ lat: 36.251944
 lng: -77.485556
 runningtitle: "Thomas G. Quinlan"
 ---
-![Thomas G. Quinlan](images/Quinlan1.jpg)
+![Thomas G. Quinlan](images/Quinlan1.jpeg)
    {:.image}
 [Thomas G. Quinlan]().
   {:.caption}
@@ -34,7 +34,7 @@ Thomas G. Quinlan, from Vineland, NJ, graduated studied Economics at Villanova u
 [Funeral announcement for Thomas G. Quinlan]().
   {:.caption}
 
-![The Evening Telegram, 20 December 1957, front page](images/Quinlan3.jpeg)
+![The Evening Telegram, 20 December 1957, front page](images/Quinlan3.jpg)
    {:.image}
 [The Evening Telegram, 20 December 1957, front page]().
   {:.caption}
