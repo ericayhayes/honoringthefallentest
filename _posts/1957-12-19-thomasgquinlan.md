@@ -29,12 +29,12 @@ runningtitle: "Thomas G. Quinlan"
 Thomas G. Quinlan, from Vineland, NJ, graduated studied Economics at Villanova until 1955. After his time on campus, he joined the US Marine Corps, where he earned the rank of 1st Lieutenant. Quinlan died while flying his AD-6 Fighter Bomber during a training mission over Tillery, NC. He was buried in his hometown of Vineland, NJ.
 
 
-![Funeral announcement for Thomas G. Quinlan](images/Quinlan2.jpg)
+![Funeral announcement for Thomas G. Quinlan](images/Quinlan2.jpeg)
    {:.image}
 [Funeral announcement for Thomas G. Quinlan]().
   {:.caption}
 
-![The Evening Telegram, 20 December 1957, front page](images/Quinlan3.jpg)
+![The Evening Telegram, 20 December 1957, front page](images/Quinlan3.jpeg)
    {:.image}
 [The Evening Telegram, 20 December 1957, front page]().
   {:.caption}
